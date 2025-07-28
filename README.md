@@ -100,6 +100,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,50:45B7D1,100:FF6B6B&height=120&section=footer&text=일상의 불편함으로 부터 편합의 가치를 창출하는 개발자, 'ganglike248'&fontSize=24&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,50:45B7D1,100:FF6B6B&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" />
+
+**일상의 불편함으로부터 편함의 가치를 창출하는 개발자, ganglike248입니다.**
 
 </div>
+
