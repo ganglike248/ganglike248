@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,50:45B7D1,100:FF6B6B&height=200&section=header&text=ganglike248&fontSize=40&fontAlign=70&fontAlignY=40&fontColor=ffffff&desc=I%20will%20become%20a%20Full-Stack%20Developer.&descAlign=70&descAlignY=60&animation=fadeIn" />
 
 <!-- 간단 소개 -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=45B7D1&center=true&vCenter=true&width=650&height=90&lines=일상의%20불편함을%20편함으로.;책임감/꼼꼼함/창의성;풀스택%20개발자가%20되기%20위하여!;React%20%26%20Node.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=45B7D1&center=true&vCenter=true&width=650&height=90&lines=일상의%20불편함을%20편함으로.;책임감/꼼꼼함/창의성" alt="Typing SVG" />
 
 **『 새로움을 중시하는 개발자 』**
 
