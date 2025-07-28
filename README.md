@@ -52,12 +52,27 @@
 
 ## 🚀 대표 프로젝트
 
-| 기간 | 프로젝트 | 역할 & 기술 | 설명 | 레포지토리 |
-|------|----------|-------------|------------|------------|
-| 2024.09 – 2025.06 | **Reload_F5**<br>(캡스톤 디자인) | 프론트엔드 (React) | 환경 보호와 경제적 순환을 동시에 실현하는 혁신적인 통합 플랫폼 | [바로가기](https://github.com/ganglike248/Reload_F5/tree/develop) |
-| 2024.09 - 12 | **지출 관리 챗봇** | 풀스택 (React + Firebase) | 개인 소비 패턴 분석, 대화형 UI | [바로가기](https://github.com/ganglike248/MoneyChat) |
-| 2024.07 - 08, 2025.06 - 07 | **우리 동네 영양사** | 프론트엔드 (React) | 멋쟁이사자처럼 12기 해커톤 작품 | [바로가기](https://github.com/ganglike248/LikeLion-12th-Hackathon) |
-| 2025.02 - 04 | **동아리 출석 관리 시스템** | 프론트엔드 (React) · 디자인 · 기획 | 멋쟁이사자처럼 13기 동아리 출석 관리 | [바로가기](https://github.com/ganglike248/likelion_att) |
+| 기간 | 프로젝트 | 역할 & 기술 | 설명 |
+|------|----------|-------------|------------|
+| 2024.09 – 2025.06 | **Reload_F5**<br>(캡스톤 디자인) | 프론트엔드 (React) | 환경 보호와 경제적 순환을 동시에 실현하는 혁신적인 통합 플랫폼 |
+| 2024.09 - 12 | **Money Chat** | 풀스택 (React + Firebase) | 지출 관리 챗봇, GPT API 연동, 개인 소비 패턴 분석, 대화형 UI |
+| 2024.07 - 08, 2025.06 - 07 | **우리 동네 영양사**<br>(멋사 12기 해커톤) | 프론트엔드 (React) | 바쁜 현대인들을 위한 건강한 도시락 정기 구독 서비스 |
+| 2025.02 - 04 | **동아리 출석 관리 시스템**<br>(멋사 13기) | 프론트엔드 (React) · 디자인 · 기획 | 멋쟁이사자처럼 13기 동아리 부원/출석/스케줄 관리, 교육 자료 열람 |
+
+<div align="center">
+<a href="https://github.com/ganglike248/Reload_F5">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ganglike248&repo=Reload_F5&theme=radical&bg_color=0d1117" />
+</a>
+<a href="https://github.com/ganglike248/MoneyChat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ganglike248&repo=MoneyChat&theme=radical&bg_color=0d1117" />
+</a>
+<a href="https://github.com/ganglike248/LikeLion-12th-Hackathon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ganglike248&repo=LikeLion-12th-Hackathon&theme=radical&bg_color=0d1117" />
+</a>
+<a href="https://github.com/ganglike248/likelion_att">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ganglike248&repo=likelion_att&theme=radical&bg_color=0d1117" />
+</a>
+</div>
 
 ---
 
@@ -65,11 +80,11 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ganglike248&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=4ecdc4&icon_color=ff6b6b&text_color=ffffff&count_private=true" alt="Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ganglike248&show_icons=true&theme=radical&bg_color=0d1117&title_color=4ecdc4&icon_color=ff6b6b&text_color=ffffff&count_private=true" alt="Stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganglike248&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=4ecdc4&text_color=ffffff&langs_count=8" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganglike248&layout=compact&theme=radical&bg_color=0d1117&title_color=4ecdc4&text_color=ffffff&langs_count=8" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ganglike248&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=4ecdc4&fire=ffa726&currStreakLabel=ffffff" alt="Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ganglike248&theme=radical&background=0d1117&stroke=ff6b6b&ring=4ecdc4&fire=ffa726&currStreakLabel=ffffff" alt="Streak"/>
 
 </div>
 
