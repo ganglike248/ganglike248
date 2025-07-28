@@ -66,8 +66,8 @@
 <a href="https://github.com/ganglike248/MoneyChat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ganglike248&repo=MoneyChat&theme=radical&bg_color=0d1117" />
 </a>
-<a href="https://github.com/ganglike248/LikeLion-12th-Hackathon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ganglike248&repo=LikeLion-12th-Hackathon&theme=radical&bg_color=0d1117" />
+<a href="https://github.com/ganglike248/Nutrihood">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ganglike248&repo=Nutrihood&theme=radical&bg_color=0d1117" />
 </a>
 <a href="https://github.com/ganglike248/likelion_att">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ganglike248&repo=likelion_att&theme=radical&bg_color=0d1117" />
