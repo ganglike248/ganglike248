@@ -71,9 +71,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganglike248&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=4ecdc4&fire=ffa726&currStreakLabel=ffffff" alt="Streak"/>
 
-<!-- 트로피 -->
-<img src="https://github-profile-trophy.vercel.app/?username=ganglike248&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophy"/>
-
 </div>
 
 ---
