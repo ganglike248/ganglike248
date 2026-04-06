@@ -10,15 +10,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/ganglike248?tab=repositories)
 [![Blog](https://img.shields.io/badge/Blog-velog-20C997?style=flat-square)](https://velog.io/@ganglike/posts)
 [![Email](https://img.shields.io/badge/rudfkr248@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rudfkr248@gmail.com)
-
-</div>
-
----
-
-## Tech Stack
-
-<div align="center">
-
+</br></br>
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
