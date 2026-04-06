@@ -5,7 +5,7 @@
 
 **편리함은 기술이 만드는 게 아니라 사람을 이해하는 데서 만들어진다고 믿습니다.**
 
-### [portfoliobyson.netlify.app](https://portfoliobyson.netlify.app)
+## [portfoliobyson.netlify.app](https://portfoliobyson.netlify.app)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/ganglike248?tab=repositories)
 [![Blog](https://img.shields.io/badge/Blog-velog-20C997?style=flat-square)](https://velog.io/@ganglike/posts)
@@ -84,8 +84,9 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganglike248&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true)](https://github.com/ganglike248)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganglike248&layout=compact&hide_border=true&theme=default)](https://github.com/ganglike248)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ganglike248&theme=default&hide_border=true&locale=ko)](https://github.com/ganglike248)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ganglike248&theme=minimal&hide_border=true&area=true)](https://github.com/ganglike248)
 
 </div>
 
