@@ -9,7 +9,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/ganglike248?tab=repositories)
 [![Blog](https://img.shields.io/badge/Blog-velog-20C997?style=flat-square)](https://velog.io/@ganglike/posts)
-[![Email](https://img.shields.io/badge/rudfkr248@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rudfkr248@gmail.com)
+[![Email](https://img.shields.io/badge/business9498@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:business9498@gmail.com)
 </br></br>
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
