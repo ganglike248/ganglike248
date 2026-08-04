@@ -3,7 +3,7 @@
 
 # 문제를 찾고, 직접 만들어서 해결합니다.
 
-**편리함은 기술을 만드는 게 아니라 고객을 이해하는 것부터 시작합니다.**
+**편리함은 기술을 만드는 것이 아니라 고객을 이해하는 것부터 시작합니다.**
 
 ## [portfoliobyson.netlify.app](https://portfoliobyson.netlify.app)
 
