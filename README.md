@@ -72,18 +72,6 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ganglike248&theme=default&hide_border=true&locale=ko)](https://github.com/ganglike248)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ganglike248&theme=minimal&hide_border=true&area=true)](https://github.com/ganglike248)
-
-</div>
-
----
-
 ## Education & Activity
 
 - 2025 | 멋쟁이사자처럼 계명대 13기 **대표** 수료
